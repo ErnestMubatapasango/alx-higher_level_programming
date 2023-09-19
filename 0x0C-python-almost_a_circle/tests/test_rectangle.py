@@ -120,4 +120,3 @@ given"
         self.assertEqual(r.__dict__, d)
 
         r = Rectangle(5, 10, 15, 20, 98)
-

@@ -46,4 +46,3 @@ class TestBase(unittest.TestCase):
             Base.__init__(self, 1, 2)
         msg = "__init__() takes from 1 to 2 positional arguments but 3 \
 were given"
-

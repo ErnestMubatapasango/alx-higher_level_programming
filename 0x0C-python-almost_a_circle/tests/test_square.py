@@ -35,4 +35,3 @@ class TestSquare(unittest.TestCase):
         with self.assertRaises(TypeError) as e:
             r = Square()
         s = "__init__() missing 1 required positional argument: 'size'"
-

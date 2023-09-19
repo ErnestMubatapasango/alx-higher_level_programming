@@ -73,4 +73,3 @@ class Base:
             if cls is Rectangle:
                 list_objs = [[o.id, o.width, o.height, o.x, o.y]
                              for o in list_objs]
-

@@ -25,4 +25,3 @@ if __name__ == "__main__":
     print("---")
 
     s1 = Square(5)
-
